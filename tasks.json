@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "title": "Homework in Maths",
+        "description": "Transform techniques",
+        "deadline": "2026-03-21",
+        "priority": "high",
+        "status": "pending"
+    }
+]
